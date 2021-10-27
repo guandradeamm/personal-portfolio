@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { DiCssdeck } from "react-icons/di";
+import { IoIosFingerPrint } from "react-icons/io";
 import {
   Container,
   Div1,
@@ -24,7 +24,7 @@ const Header = () => (
             marginBottom: "20",
           }}
         >
-          <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+          <IoIosFingerPrint size="3rem" /> <Span>guandrade</Span>
         </a>
       </Link>
     </Div1>
