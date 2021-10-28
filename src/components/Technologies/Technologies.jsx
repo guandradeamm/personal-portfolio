@@ -19,7 +19,10 @@ const Technologies = () => (
     <SectionDivider />
     <br />
     <SectionTitle>Technologies</SectionTitle>
-    <SectionText>Description</SectionText>
+    <SectionText>
+      {" "}
+      {"I've worked with a range a technologies in the web development world."}
+    </SectionText>
     <List>
       <ListItem>
         <DiReact size="3rem" />

@@ -23,7 +23,11 @@ const Hero = () => (
       <SectionText>
         {`I'm a FullStack Software Engineer & Attorney with passion for technology. Let's keep in touch!`}
       </SectionText>
-      <Button onClick={() => (window.location = "https://google.com")}>
+      <Button
+        onClick={() =>
+          (window.location = "https://www.youtube.com/c/Arthur404dev")
+        }
+      >
         Learn More
       </Button>
     </LeftSection>

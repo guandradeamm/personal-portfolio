@@ -24,7 +24,7 @@ const Header = () => (
             marginBottom: "20",
           }}
         >
-          <IoIosFingerPrint size="3rem" /> <Span>guandrade</Span>
+          <IoIosFingerPrint size="3rem" /> <Span>guandradeamm</Span>
         </a>
       </Link>
     </Div1>
@@ -46,13 +46,13 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com">
+      <SocialIcons href="https://github.com/guandradeamm">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com">
+      <SocialIcons href="https://www.linkedin.com/in/gustavo-andrade-fullstack-developer/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://instagram.com">
+      <SocialIcons href="https://www.instagram.com/guandradeamm/">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
     </Div3>

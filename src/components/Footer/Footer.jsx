@@ -20,25 +20,29 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:">tel:</LinkItem>
+          <LinkItem href="tel:+55 031 99258-4449">
+            tel:+55 031 99258-4449
+          </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:">mailto:</LinkItem>
+          <LinkItem href="mailto:gustavo_alex3000@hotmail.com">
+            gustavo_alex3000@hotmail.com
+          </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Innovating one project at a time</Slogan>
+          <Slogan>Quality is my value</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://github.com/guandradeamm">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.linkedin.com/in/gustavo-andrade-fullstack-developer/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://www.instagram.com/guandradeamm/">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
