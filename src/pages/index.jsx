@@ -2,6 +2,7 @@ import Hero from "../components/Hero/Hero";
 import { Layout } from "../layout/Layout";
 import { Section } from "../styles/GlobalComponents";
 import Projects from "../components/Projects/Projects";
+import Technologies from "../components/Technologies/Technologies";
 
 const Home = () => {
   return (
@@ -10,6 +11,7 @@ const Home = () => {
         <Hero />
       </Section>
       <Projects />
+      <Technologies />
     </Layout>
   );
 };
