@@ -13,6 +13,10 @@ const Home = () => {
     <>
       <Head>
         <title>Gustavo Andrade Portfolio</title>
+        <meta
+          name="description"
+          content="A website to show a little bit of myself and my accomplishments."
+        />
       </Head>
       <Layout>
         <Section grid>
