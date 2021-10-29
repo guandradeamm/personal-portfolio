@@ -25,10 +25,11 @@ const Hero = () => (
       </SectionText>
       <Button
         onClick={() =>
-          (window.location = "https://www.youtube.com/c/Arthur404dev")
+          (window.location =
+            "https://www.linkedin.com/in/gustavo-andrade-fullstack-developer/")
         }
       >
-        Learn More
+        Keep in Touch
       </Button>
     </LeftSection>
   </Section>

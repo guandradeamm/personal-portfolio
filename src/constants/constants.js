@@ -5,8 +5,8 @@ export const projects = [
       "A simple react.js and tailwind CSS website for selling meat to your customers.",
     image: "images/Meatclub.png",
     tags: ["React.js", "Taiwind CSS"],
-    source: "https://meatclub-website.netlify.app",
-    visit: "https://github.com/guandradeamm/meat-club/commits/main",
+    preview: "https://meatclub-website.netlify.app",
+    visit: "https://github.com/guandradeamm/meat-club",
     id: 0,
   },
   {
@@ -15,8 +15,8 @@ export const projects = [
       "A real time crypto currency app to check for live pricing and market value of your favorite coin",
     image: "/images/Cryptosearch.png",
     tags: ["React.js", "CSS3"],
-    source: "https://cryptosearch-app.netlify.app",
-    visit: "https://github.com/guandradeamm/cryptosearch/commits/main",
+    preview: "https://cryptosearch-app.netlify.app",
+    visit: "https://github.com/guandradeamm/cryptosearch",
     id: 1,
   },
   {
@@ -25,8 +25,8 @@ export const projects = [
       "A lightweight task manager to help you organize your daily tasks",
     image: "/images/Tasker.png",
     tags: ["React.js", "CSS3"],
-    source: "https://tasker-live.netlify.app",
-    visit: "https://github.com/guandradeamm/tasker/commits/main",
+    preview: "https://tasker-live.netlify.app",
+    visit: "https://github.com/guandradeamm/tasker",
     id: 2,
   },
   {
@@ -35,8 +35,8 @@ export const projects = [
       "A clone of the webull site aiming to practice react.js and styled components.",
     image: "/images/Webull.png",
     tags: ["React.js", "Styled Components"],
-    source: "https://webullclone-web.netlify.app",
-    visit: "https://github.com/guandradeamm/webull-clone/commits/main",
+    preview: "https://webullclone-web.netlify.app",
+    visit: "https://github.com/guandradeamm/webull-clone",
     id: 3,
   },
 ];
