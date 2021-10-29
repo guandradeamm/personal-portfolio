@@ -1,8 +1,6 @@
 # Personal Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d4d306dc-8f24-4028-aed7-9afc61545bd7/deploy-status)](https://app.netlify.com/sites/tasker-live/deploys)
-
----
+## [![Netlify Status](https://api.netlify.com/api/v1/badges/d0e9930f-5a3b-43f8-b454-82d07a409cc5/deploy-status)](https://app.netlify.com/sites/guandradeamm-portfolio/deploys)
 
 ![Portfolio Logo](./assets/img/logo.svg)
 
@@ -50,4 +48,4 @@ yarn start
 
 **Live Demo:**
 
-You can check a live demo of the app running [here](https://tasker-live.netlify.app)
+You can check a live demo of the app running [here](https://guandradeamm-portfolio.netlify.app)
